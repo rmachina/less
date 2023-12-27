@@ -1,0 +1,29 @@
+{
+  "name": "cry",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "framer-motion": "^10.16.16",
+    "jotai": "^2.6.0",
+    "mongoose": "^8.0.3",
+    "next": "14.0.4",
+    "pure-react-carousel": "^1.30.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.4.1",
+    "react-international-phone": "^4.0.4",
+    "react-simple-captcha": "^9.3.1",
+    "react-tailwindcss-select": "^1.8.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
